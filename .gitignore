@@ -1,0 +1,17 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Database / Docker runtime data
+influxdb_data/
+volume-data/
+
+# Environment files
+.env
+.env.*
+
+# Maven
+target/
+
+# Logs
+*.log
